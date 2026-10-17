@@ -1,0 +1,11 @@
+{
+  "name": "purple-wave-globe",
+  "version": "1.0.0",
+  "description": "Interactive Three.js Particle Globe",
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
